@@ -1,4 +1,4 @@
-# GrowSC Server - Zig Port
+# GrowSC Server - Zig Port [NOT FULL COMPLETE](Beta)
 
 This is a Zig port of the GrowSC C++ server codebase. The port is being done incrementally to ensure maintainability and avoid overloading.
 
